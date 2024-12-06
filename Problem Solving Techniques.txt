@@ -1,0 +1,68 @@
+Syllabus:
+
+A) Algorithm
+1) Algorithmic Solution
+2) Algorithmic Analysis
+i) Priori Estimates
+ii) Posteriori Testing
+3) Algorithmic Complexity And Efficiency
+i) Time Complexity
+ii) Space Complexity
+iii) Asymptotic Notations
+a) Worst Case
+b) Best Case
+c) Average Case
+iv) Determination Of Algorithmic Efficiency
+4) Qualities, Properties, Characteristics Of Good Algorithm
+5) Building Blocks Of Algorithm
+i) Statement
+ii) State
+iii) Control Flow
+a) Sequence
+b) Selection
+c) Iteration
+iv) Functions
+v) Modules
+vi) Classes And Objects
+6) Algorithmic Problem Solving
+7) Example Algorithm
+
+B) Flow Chart:
+1) Rules For Drawing Flow Chart
+2) Advantages, Disadvantages Of Flow Chart
+3) Example Flow Chart
+
+C) Pseudo Code:
+1) Guidelines For Writing Pseudo Code
+2) Common Keywords Used In Pseudo Code
+3) Syntax Of Pseudo Code
+4) Advantages, Disadvantages Of Pseudo Code
+5) Example Pseudo Code
+6) Difference Between Algorithm, Flow Chart, Pseudo Code
+
+D) Program, Programming Language
+1) Example
+2) Types: 3
+i) Machine, Binary (Or) Low Level Language
+ii) Assembly (Or) Intermediate Language
+iii) High Level Language (Or) Translator
+a) Compiler
+b) Interpreter
+iv) Difference Between High-Level Language, Low Level Language
+v) Difference Between Compiler, Interpreter
+3) Computer System Level Hierarchy
+4) Classification Of High Level Language (Basis: Application)
+i) Commercial Programming Language
+ii) Scientific Programming Language
+iii) Special Purpose Programming Language
+iv) General Purpose Programming Language
+5) Classification Of High Level Language (Basis: Design Paradigm)
+i) Markup Programming Language
+ii) Concurrent (Or) Parallel Programming Language
+iii) Scripting Programming Language
+iv) Compiled Programming Language
+v) Interpreted Programming Language
+vi) Procedural Programming Language
+vii) Functional (Or) Modular Programming Language
+viii) Object Oriented Programming Language
+6) Example Program (Python)
