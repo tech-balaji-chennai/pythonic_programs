@@ -1,8 +1,8 @@
-Syllabus:
+Python Programming - Syllabus:
 
 Subject 0: Problem Solving
 A) Algorithm
-B) Flow chart
+B) Flow Chart
 C) Pseudo Code
 D) Programming Language
 E) Algorithmic Problem Solving
